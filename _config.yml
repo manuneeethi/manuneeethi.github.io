@@ -29,6 +29,7 @@ plugins:
 
 header_pages: 
   - categories.md
+  - resource_archive.md
   - about_me.md
 
 defaults: 
