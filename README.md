@@ -1,2 +1,0 @@
-# ManuNeeethi.github.io
-Website
