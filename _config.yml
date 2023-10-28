@@ -25,7 +25,7 @@ markdown: kramdown
 theme: minima
 plugins:
   # - jekyll-feed
-
+  permalink: /:categories/:year/:month/:day/:title:output_ext
 
 header_pages: 
   - about_this_site.md
