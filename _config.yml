@@ -28,13 +28,12 @@ plugins:
 
 
 header_pages: 
-  - categories.md
-  - resource_archive.md
-  - about_me.md
+  -  
+  - about_this_site.md
 
 defaults: 
     values: 
-    author: "ManuNeethi"
+    author: "manuneeethi"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

@@ -1,3 +1,3 @@
-# ManuNeeethi
+# manuneeethi
 
-A space on Sanatana Dharma.
+A page on political, military and economic history.
