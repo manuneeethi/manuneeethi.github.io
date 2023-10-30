@@ -19,3 +19,16 @@ This page lists eminent historians and resources in the field of Ancient Indian 
 3. [http://libgen.is/book/index.php?md5=C0BE3204B507FA4689FED37695BC40AD](http://libgen.is/book/index.php?md5=C0BE3204B507FA4689FED37695BC40AD) by K. P. Jayaswal
 4. [Manu and Yājñavalkya: A Comparison and Contrast -- A Treatise on the Basic Hindu Law](http://libgen.is/book/index.php?md5=A0BD1A02A32C5A7D3E369BE2E9EA4D75) by K. P. Jayaswal
 5. [Ancient Indian Political Thought and Institutions](https://www.indianculture.gov.in/ebooks/ancient-indian-political-thought-and-institutions) by Bhaskar Anand Saletore
+6. [Ancient India according to Manu](https://archive.org/details/in.ernet.dli.2015.130313/) by Rajendra Nath Sharma
+
+
+
+
+
+
+
+
+
+
+
+
