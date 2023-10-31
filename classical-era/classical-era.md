@@ -9,12 +9,12 @@ Classical Era or the Golden age is called so because of the Imperial Guptas. A l
 ## 1. North Indian Kingdoms (North, North-West, North-East)
 
 1. [The Guptas (320 AD to 550 AD)](/classical-era/the-guptas/)
-2. [The Maukharis (~500 AD to ~600 AD](/classical-era/the-maukharis/)
-3. [The Kamarupas (350 AD to ~1150 AD](/classical-era/the-kamarupas/)
+2. [The Maukharis (~500 AD to ~600 AD)](/classical-era/the-maukharis/)
+3. [The Kamarupas (350 AD to ~1150 AD)](/classical-era/the-kamarupas/)
 
 ## 2. Deccan, Central Indian Kingdoms
 
-1. [The Vakatakas (250 AD to 500 AD](/classical-era/the-vakatakas/)
+1. [The Vakatakas (250 AD to 500 AD)](/classical-era/the-vakatakas/)
 2. [The Nagas of Padmavati (early 3rd Century AD to mid 4th Century AD)](/classical-era/the-nagas/)
 
 ## 3. Kannada lands
@@ -27,6 +27,8 @@ Classical Era or the Golden age is called so because of the Imperial Guptas. A l
 
 1. [The Ikshvakus of Andhradesha (early 3rd century AD to early 4th century AD)](/classical-era/the-ikshvakus/)
 2. [The VishnuKundinas (~420AD to ~620AD)](/classical-era/the-vishnukundinas/)
+
+Relevant sources:
 
 - [History of the early dynasties of Andhra Desha](https://archive.org/details/in.ernet.dli.2015.77294) by Bhavaraju Venkata Krishna Rao, 200 AD - 625 AD. It covers all the dynasties listed above for Andhra-Desha.
 - [Early History of the Andhra Country](https://archive.org/details/EarlyHistoryOfTheAndhraCountry) by K. Gopalachari
