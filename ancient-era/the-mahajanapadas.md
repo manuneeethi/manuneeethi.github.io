@@ -6,4 +6,4 @@ permalink: /ancient-era/the-mahajanapadas/
 
 Region: North India (gangetic plains, current day UP/Bihar)
 
-1. [Mahajanapadas (6th century BC to 4th century BC)](/ancient-era/the-mahajanapadas/)
+1. [Janapada State in Ancient India](https://archive.org/details/in.ernet.dli.2015.119794) by Sudama Mishra
