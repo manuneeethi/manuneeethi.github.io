@@ -8,6 +8,7 @@ Region: Western, North and Central Karnataka
 
 1. [The Kadamba Kula](https://archive.org/details/in.ernet.dli.2015.22295) by George M. Moraes
 2. [Inscriptions of the Early Kadambas](https://zenodo.org/records/573689/files/Gai%201996.pdf?download=1) by Govind Swamirao Gai (G. S. Gai)
+3. [State and Society of Early Kadamba Dynasty](https://archive.org/details/state-and-society-of-early-kadamba-dynasty-rejeev-shukla) by Rajeev Kumar (A PhD Thesis)
 
 ## Interesting resources
 
