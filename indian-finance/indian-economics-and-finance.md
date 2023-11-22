@@ -51,3 +51,15 @@ A curation about resources on Indian Economics and Finance (Our principles, theo
 1. [The Economic Function of a Medieval South Indian Temple](The Economic Function of a Medieval South Indian Temple) by Burton Stein
 2. [Temples in Tamil Country, 1300-1750 AD](https://doi.org/10.1177/00194646770140)
 3. [Economic Shocks and Temple Desecrations in Medieval India](https://economics.harvard.edu/files/economics/files/economic_shocks_and_temple_desecrations_in_medieval_india_april_2019.pdf)
+
+## 5. On Mercantile castes and corporations
+
+1. [Caste and Capitalism in Colonial India: The Nattukottai Chettiars](http://libgen.is/book/index.php?md5=19C1B32D638201D8B0DAC12090E8616F)
+2. [Chettiars and Hinduism in South-East Asia](https://archive.org/details/aclcpl00000277a829/) by Samalay alias S. M. L. Lakshmanan Chettiar
+3. [Rethinking Markets in Modern india: Embedded Exchange and Contested Jurisdiction](http://libgen.is/book/index.php?md5=260CD4F6598C14B0868C09FABAF159DC)
+4. [Fiery Dragons: Banks, Moneylenders and Microfinance in Burma](http://libgen.is/book/index.php?md5=2CF732514C56828C3E520F04B211007F) by Sean Turnell
+5. [The World of the Tamil Merchant: Pioneers of International Trade](http://libgen.is/book/index.php?md5=07A002A0C76B06821019AEB238C3A830) by Kanakalatha Mukund
+6. [Nagapattinam to Suvarnadwipa: Reflections on the Chola Naval Expeditions to Southeast Asia](http://libgen.is/book/index.php?md5=3B8BB75E48292C1E55C21B94DDD6D757): One of the essays is by Noboru Karashima who talks about a number of mercantile communities of South India.
+7. [Marwaris: From Traders to Industrialists](http://libgen.is/book/index.php?md5=9B8A285E184D70B7ADA523C1C0CD447B) by Thomas A. Timberg
+8. [The Marwaris: From Jagat Seth to the Birlas](http://libgen.is/book/index.php?md5=2C8C6F479A41DE572D7B1539459D0BFC) by Thomas A. Timberg
+9. [Mercantile Bombay: A Journey of Trade, Finance and Enterprise](http://libgen.is/book/index.php?md5=35E7A9C3D7F80DBDED2CE59CAD6729C2) by Sifra Lentin
