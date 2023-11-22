@@ -35,6 +35,7 @@ A curation about resources on Indian Economics and Finance (Our principles, theo
 6. [The political economy of commerce - 1500-1650](http://libgen.is/book/index.php?md5=22CEBC9DE761E6EEE48C29E008F7479B) by Sanjay Subrahmanyam
 7. [Books of Sanjay Subrahmanyam](http://libgen.is/search.php?&req=Subrahmanyam+Sanjay&phrase=1&view=simple&column=def&sort=def&sortmode=ASC&page=2)
 8. [Economic Life of Northern India - 300 AD to 550 AD](https://archive.org/details/in.ernet.dli.2015.135324) by Sachindra Kumar Maity (Gupta Era)
+9. [Trade and Traders in Early Indian Society](http://libgen.is/book/index.php?md5=404D61C3AA29CE7E570AE12F20AC81ED) by Ranabir Chakravarti
 
 ## 3. Colonial Economy
 
@@ -45,6 +46,7 @@ A curation about resources on Indian Economics and Finance (Our principles, theo
 5. [Economic History of India - 1757-1966](https://archive.org/details/in.ernet.dli.2015.132880) by G. Kaushal
 6. [Books by Tirthankar Roy](http://libgen.is/search.php?req=Tirthankar+Roy&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def)
 7. [History of Indian Currency and Exchange](https://archive.org/details/dli.csl.5714) by B. E. Dadachanji
+8. [Merchants, Traders, Entrepreneurs: Indian Business in the Colonial Era](http://libgen.is/book/index.php?md5=73309CCA8AAB5E04814263C042CA7E3F) by Claude Markovits
 
 ## 4. Temple Economy
 
@@ -63,3 +65,15 @@ A curation about resources on Indian Economics and Finance (Our principles, theo
 7. [Marwaris: From Traders to Industrialists](http://libgen.is/book/index.php?md5=9B8A285E184D70B7ADA523C1C0CD447B) by Thomas A. Timberg
 8. [The Marwaris: From Jagat Seth to the Birlas](http://libgen.is/book/index.php?md5=2C8C6F479A41DE572D7B1539459D0BFC) by Thomas A. Timberg
 9. [Mercantile Bombay: A Journey of Trade, Finance and Enterprise](http://libgen.is/book/index.php?md5=35E7A9C3D7F80DBDED2CE59CAD6729C2) by Sifra Lentin
+10. [Indian merchants and Eurasian Trade, 1600-1750](http://libgen.is/book/index.php?md5=6DFE3183CB9AF47424063D2CA13F8022) by Stephen Frederic Dale
+11. [The Global World of Indian Merchants, 1750-1947: Traders of Sindh from Bukhara to Panama](http://libgen.is/book/index.php?md5=D23C2022E4CF6640F895B5DD223DBA95)
+12. [The Warrior Merchants: Textiles, Trade and Territory in South India](http://libgen.is/book/index.php?md5=CCBF76CACF558FB9CEF4718B5431EF6C) by Mattison Mines
+13. [The World of the Indian Ocean Merchant, 1500-1800: Collected Essays of Ashin Das Gupta](http://libgen.is/book/index.php?md5=50E109DCA43FB7B43217E557312F42E3) by Uma Das Gupta
+14. [Born to Trade: Indian Business Communities in Medieval and Early Modern Eurasia](http://libgen.is/book/index.php?md5=7AE1FBC6C20FA64FA3459D797C27B33E) by Surendra Gopal
+
+## 6. Indian Banking
+
+1. [Indigenous Banking in India](https://archive.org/details/in.ernet.dli.2015.1055) by L. C. Jain
+2. [Indigenous Banking in Ancient Medieval India](https://archive.org/details/in.ernet.dli.2015.55082) by Brijkishore Bhargava
+3. [Indigenous Indian Banking](https://archive.org/details/dli.csl.5219) by M. M. S. Gubbay
+4. [The Monetary Problems of India](https://archive.org/details/in.ernet.dli.2015.190519) by L. C. Jain
